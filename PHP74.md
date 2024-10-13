@@ -42,7 +42,7 @@ Under Bookworm the default PHP version is the 8. If you have an application, lik
 
 ## Put this line in the new empty index.php file and save file:
 
-> <?php phpinfo(); ?>
+> `<?php phpinfo(); ?>`
 
 ## Delete the index.html to be able to use index.php:
 
