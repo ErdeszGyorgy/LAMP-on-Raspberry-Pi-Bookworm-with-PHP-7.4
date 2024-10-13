@@ -16,7 +16,7 @@
 
 > `<Directory "/var/www/html">`
 
->     `AllowOverride All`
+>     AllowOverride All
 
 > `</Directory>`
 
@@ -26,11 +26,11 @@
 
 >     `<Directory "/var/www/html">`
 
->         `AllowOverride All`
+>         AllowOverride All
 
 >     `</Directory>`
 
->     `...`
+>     ...
 
 Save the file and exit.
 
