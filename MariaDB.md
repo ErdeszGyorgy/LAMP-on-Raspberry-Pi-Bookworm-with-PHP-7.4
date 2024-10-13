@@ -12,7 +12,7 @@
 
 `sudo mysql_secure_installation`
 
-Go through the dialogue:
+## Go through the dialogue:
 
 > Enter current password for root (enter for none): press Enter
 
@@ -28,6 +28,6 @@ Go through the dialogue:
 
 > Reload privilege tables now? [Y/n]: Y
 
-When complete, you will see the message:
+## When complete, you will see the message:
 
 > All done! and Thanks for using MariaDB!
