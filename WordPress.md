@@ -32,7 +32,7 @@
 
 >     ...
 
-Save the file and exit.
+## Finally, save & exit the file.
 
 ## Restart the Apache server:
 
@@ -53,6 +53,8 @@ Save the file and exit.
 > `max_input_time = 5000`
 
 > `memory_limit = 2048M`
+
+## Finally, save & exit the file.
 
 ## Restart the Apache server:
 
