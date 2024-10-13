@@ -10,16 +10,21 @@
 
 ## Add or uncomment or uncomment and change:
 
-```
-listen=YES
-anonymous_enable=NO
-local_enable=YES
-write_enable=YES
-local_umask=022
-chroot_local_user=YES
-user_sub_token=$USER
-local_root=/home/$USER/FTP
-```
+> listen=YES
+
+> anonymous_enable=NO
+
+> local_enable=YES
+
+> write_enable=YES
+
+> local_umask=022
+
+> chroot_local_user=YES
+
+> user_sub_token=$USER
+
+> local_root=/home/$USER/FTP
 
 ## Create the directory which is used for file transfer (pi or replace it with your user):
 
