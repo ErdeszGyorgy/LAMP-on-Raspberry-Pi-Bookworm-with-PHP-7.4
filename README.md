@@ -3,7 +3,7 @@ LAMP on Raspberry Pi Geekworm with PHP 7.4 (for legacy Wordpress versions)
 
 ## Use case:
 
-I have an archived WordPress blog with a theme written in PHP 7.4, so it doesn't work with PHP 8. Unfortunately, Geekworm comes with PHP 8, that is, if I give the command `sudo apt install php -y` (which worked on Bullseye and installed everything of PHP 7.4) it will install PHP 8. So far so good, PHP 7.4 can be installed (only with additional modules as you can see in the PHP74 file), but then the phpMyAdmin wont' work if it is installed with `sudo apt install phpmyadmin -y`. Unfortunatelly, phpMyAdmin must be installed manually, that's why the all fuss about it.
+I have an archived WordPress blog with a theme written in PHP 7.4, so it doesn't work with PHP 8. Unfortunately, Geekworm comes with PHP 8, that is, if I give the command `sudo apt install php -y` (which worked on Bullseye and installed everything of PHP 7.4) it will install PHP 8. So far so good, PHP 7.4 can be installed (only you have to install also some additional modules as you can see in the PHP74 file), but then the phpMyAdmin wont' work if it is installed with `sudo apt install phpmyadmin -y`. Unfortunatelly, phpMyAdmin must be installed manually, that's why the all fuss about it.
 
 But if you follow these steps in the files, it will work perfectly with php 7.4 themes. I run WordPress 6.6.2 also with a Twenty-Sixteen Theme and it also works fine.
 
