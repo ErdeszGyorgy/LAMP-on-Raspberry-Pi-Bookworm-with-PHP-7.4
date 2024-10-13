@@ -1,6 +1,6 @@
 # Setting up PHPMyAdmin
 
-(used source as basis: https://wiki.crowncloud.net/?How_to_Install_PhpMyAdmin_in_Debian_12#Downloading+phpMyAdmin)
+(used source as a basis: https://wiki.crowncloud.net/?How_to_Install_PhpMyAdmin_in_Debian_12#Downloading+phpMyAdmin)
 
 ## Install PHPMyAdmin:
 
