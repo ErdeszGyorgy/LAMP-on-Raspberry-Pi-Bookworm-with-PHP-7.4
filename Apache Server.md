@@ -4,7 +4,7 @@
 
 `sudo apt-get install apache2 -y`
 
-## Test:
+## Test in your browser:
 
 `http://localhost`
 
