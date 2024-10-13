@@ -1,5 +1,7 @@
 # Setting up PHPMyAdmin
 
+(used source as basis: https://wiki.crowncloud.net/?How_to_Install_PhpMyAdmin_in_Debian_12#Downloading+phpMyAdmin)
+
 ## Install PHPMyAdmin:
 
 `sudo wget https://files.phpmyadmin.net/phpMyAdmin/5.2.1/phpMyAdmin-5.2.1-all-languages.tar.gz`
