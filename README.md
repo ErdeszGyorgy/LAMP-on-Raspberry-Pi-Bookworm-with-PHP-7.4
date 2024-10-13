@@ -11,7 +11,7 @@ So, the steps are:
 
 ## 1. FTP Server
 
-Just for convenience if you want to upload some files with codes upfront, to be able to copy into terminal.
+Just for convenience if you want to upload some files with codes upfront, to be able to copy them into the terminal.
 
 ## 2. Apache Server
 
