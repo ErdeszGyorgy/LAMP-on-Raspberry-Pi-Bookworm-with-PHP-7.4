@@ -22,7 +22,7 @@
 </Directory>
 ```
 
-## *Ensure it’s within the <VirtualHost *:80> like so:*
+*## Ensure it’s within the <VirtualHost *:80> like so:*
 
 ```
 <VirtualHost *:80>
