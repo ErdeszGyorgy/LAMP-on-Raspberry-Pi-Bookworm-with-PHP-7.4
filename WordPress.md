@@ -16,9 +16,7 @@
 
 ```
 <Directory "/var/www/html">
-
   AllowOverride All
-
 </Directory>
 ```
 
@@ -26,13 +24,9 @@
 
 ```
 <VirtualHost *:80>
-
     <Directory "/var/www/html">
-
         AllowOverride All
-
     </Directory>
-
     ...
 ```
 
