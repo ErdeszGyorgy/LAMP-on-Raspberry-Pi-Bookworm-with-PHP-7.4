@@ -22,17 +22,19 @@
 </Directory>
 ```
 
-## Ensure it’s within the <VirtualHost *:80> like so:
+## *Ensure it’s within the <VirtualHost *:80> like so:*
 
-> `<VirtualHost *:80>`
+```
+<VirtualHost *:80>
 
->     <Directory "/var/www/html">
+    <Directory "/var/www/html">
 
->         AllowOverride All
+        AllowOverride All
 
->     </Directory>
+    </Directory>
 
->     ...
+    ...
+```
 
 ## Finally, save & exit the file.
 
