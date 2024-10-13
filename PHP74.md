@@ -2,6 +2,8 @@
 
 Under Bookworm the default PHP version is the 8. If you have an application, like Wordpress, which uses PHP 7.4 and you don't want to update it, you have to install PHP 7.4 manually.
 
+(used source as a basis: https://tecadmin.net/how-to-install-php-on-debian-12/)
+
 ## Get the package:
 
 `sudo apt update`
