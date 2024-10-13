@@ -26,6 +26,8 @@
 
 > local_root=/home/$USER/FTP
 
+## Finally, save & exit the file.
+
 ## Create the directory which is used for file transfer (pi or replace it with your user):
 
 `mkdir -p /home/pi/FTP/files`
