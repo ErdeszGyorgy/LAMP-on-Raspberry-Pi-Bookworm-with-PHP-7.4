@@ -152,6 +152,8 @@ Alias /phpmyadmin /usr/share/phpmyadmin
 </Directory>
 ```
 
+## Finally, save & exit the file.
+
 ## Enable the configuration:
 
 `sudo a2enconf phpmyadmin.conf`
