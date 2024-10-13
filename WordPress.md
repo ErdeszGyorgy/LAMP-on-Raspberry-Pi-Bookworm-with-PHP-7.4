@@ -44,15 +44,15 @@ Save the file and exit.
 
 ## Change the following settings to higher values like these (or what is suitable for you):
 
-> post_max_size = 800M 
+> `post_max_size = 800M`
 
-> upload_max_filesize = 800M
+> `upload_max_filesize = 800M`
 
-> max_execution_time = 5000
+> `max_execution_time = 5000`
 
-> max_input_time = 5000
+> `max_input_time = 5000`
 
-> memory_limit = 2048M
+> `memory_limit = 2048M`
 
 ## Restart the Apache server:
 
