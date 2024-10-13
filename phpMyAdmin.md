@@ -188,7 +188,7 @@ Alias /phpmyadmin /usr/share/phpmyadmin
 
 `sudo chmod -R 777 /var/www`
 
-## If you copy a folder into /var/www/html, you have to run the right setting chmod command again!
+## If you copy a folder into /var/www/html, you have to run the right-setting chmod command above again!
 
 ## Enter phpMyAdmin in your browser:
 
