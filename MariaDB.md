@@ -2,15 +2,15 @@
 
 ## Install MariaDB
 
-sudo apt-get install mariadb-server php-mysql -y
+`sudo apt-get install mariadb-server php-mysql -y`
 
 ## Restart the Apache server:
 
-sudo service apache2 restart
+`sudo service apache2 restart`
 
 ## Set some security settings:
 
-sudo mysql_secure_installation
+`sudo mysql_secure_installation`
 
 Go through the dialogue:
 
