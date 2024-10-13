@@ -24,11 +24,11 @@
 
 > `<VirtualHost *:80>`
 
->     `<Directory "/var/www/html">`
+>     <Directory "/var/www/html">
 
 >         AllowOverride All
 
->     `</Directory>`
+>     </Directory>
 
 >     ...
 
