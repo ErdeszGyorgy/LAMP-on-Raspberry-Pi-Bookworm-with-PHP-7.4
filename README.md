@@ -1,5 +1,5 @@
 # LAMP-on-Raspberry-Pi-Bookworm-with-PHP-7.4
-LAMP on Raspberry Pi Bookworm with PHP 7.4 (for legacy Wordpress versions)
+LAMP on Raspberry Pi Bookworm with PHP 7.4 (for legacy Wordpress Theme versions)
 
 ## Use case:
 
