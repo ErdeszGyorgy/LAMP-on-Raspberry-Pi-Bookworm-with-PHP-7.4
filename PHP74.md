@@ -22,13 +22,12 @@ Under Bookworm the default PHP version is the 8. If you have an application, lik
 
 ## Install the modules which are needed additionally for WordPress:
 
-```
-sudo apt  install -y php7.4-mysqli
-sudo apt install -y php7.4-mbstring
-sudo apt  install -y php7.4-curl
-sudo apt install -y php7.4-gd
-sudo apt install -y php7.4-imagick
-```
+`sudo apt  install -y php7.4-mysqli`
+`sudo apt install -y php7.4-mbstring`
+`sudo apt  install -y php7.4-curl`
+`sudo apt install -y php7.4-gd`
+`sudo apt install -y php7.4-imagick`
+
 ## Check the installed PHP version:
 
 `php -v`
@@ -39,7 +38,7 @@ sudo apt install -y php7.4-imagick
 
 ## Put this line in the new empty index.php file and save file:
 
-`<?php phpinfo(); ?>`
+> <?php phpinfo(); ?>
 
 ## Delete the index.html to be able to use index.php:
 
