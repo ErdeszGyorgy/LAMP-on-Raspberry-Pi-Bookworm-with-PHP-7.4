@@ -34,6 +34,12 @@ Under Bookworm the default PHP version is the 8. If you have an application, lik
 
 `sudo apt install -y php7.4-imagick`
 
+`sudo apt  install -y php7.4-dom`
+
+`sudo apt  install -y php7.4-zip`
+
+`sudo apt  install -y php7.4-intl`
+
 ## Check the installed PHP version:
 
 `php -v`
