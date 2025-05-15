@@ -168,7 +168,7 @@ Alias /phpmyadmin /usr/share/phpmyadmin
 
 `sudo mysql -uroot -p`
 
-## Put these lines one after the other whith Enters:
+## Put these lines one after the other whith Enters, with pi or your user and your password for your_password:
 
 `GRANT SELECT, INSERT, UPDATE, DELETE ON *.* TO 'pi'@'localhost' IDENTIFIED BY 'your_password';`
 
@@ -192,7 +192,7 @@ Alias /phpmyadmin /usr/share/phpmyadmin
 
 ## If you copy a folder into /var/www/html, you have to run the right-setting chmod command above again!
 
-## Enter phpMyAdmin in your browser:
+## Enter phpMyAdmin in your browser with the user and password given in MariaDB database privilege setting above:
 
 `http://localhost/phpMyAdmin`
 
