@@ -23,6 +23,6 @@ Just for convenience if you want to upload some files with codes upfront, to be 
 
 ## 6. phpMyAdmin
 
-After this, you can install WordPress from scratch, or upload the existing blog's folder into /var/www/html (don't forget to set www-data as owner and chmod the folder), and with phpMyAdmin create the blog's database and import it's sql dump (which you exported from the blog's existing database previously). If you change the IP address of the blog, run a Replace all command from the old to the new IP in the dump sql file before import it, in a text editor like Notepad++. Don't forget to set the proper database name and login info in the wordpress config file.
+After this, you can install WordPress from scratch, or upload the existing blog's folder into /var/www/html (don't forget to set www-data as owner and chmod the folder), and with phpMyAdmin create the blog's database and import its sql dump (which you exported from the blog's existing database previously). If you change the IP address of the blog, run a Replace all command from the old to the new IP in the dump sql file before import it, in a text editor like Notepad++. Don't forget to set the proper database name and login info in the wordpress config file.
 
 Have fun!
