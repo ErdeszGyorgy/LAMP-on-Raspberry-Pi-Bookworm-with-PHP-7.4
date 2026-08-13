@@ -8,7 +8,7 @@
 
 `sudo nano /etc/vsftpd.conf`
 
-## Add or uncomment or uncomment and change:
+## Add or uncomment and change:
 
 > listen=YES
 
